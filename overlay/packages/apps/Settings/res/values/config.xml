@@ -20,5 +20,15 @@
     <string name="config_batDesCap">/sys/class/power_supply/bms/charge_full_design</string>
     <string name="config_batCurCap">/sys/class/power_supply/bms/charge_full</string>
     <string name="config_batChargeCycle">/sys/class/power_supply/bms/cycle_count</string>
+    
+    <!-- AncientOS Device Info -->
+    <string name="ancient_device_name_summary">Redmi Note 8 Pro</string>
+    <string name="ancient_chipset_type_summary">Mediatek Helio G90T</string>
+    <string name="ancient_gpu_summary">Mali G76 MC4</string>
+    <string name="ancient_camera_mp_summary">64MP Quad Camera</string>
+    <string name="ancient_screen_type_summary">IPS 6.53 Screen</string>
+    
+    <!-- AncientOS About Maintainer Info --> 
+    <string name="maintainer_name">(||•stellabyte•||)</string>
 
 </resources>

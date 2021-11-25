@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_begonia.mk
+    $(LOCAL_DIR)/spark_begonia.mk
